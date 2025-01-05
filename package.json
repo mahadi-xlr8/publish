@@ -1,5 +1,5 @@
 {
-  "name": "publish",
+  "name": "xlr8_greeting",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
