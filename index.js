@@ -1,3 +1,3 @@
 module.exports = (name)=>{
-    console.log("Hello,", name);
+    console.log("Hey,", name);
 }
