@@ -1,4 +1,3 @@
 module.exports = (name)=>{
-    console.log("this is new line")
-    console.log("Hey,", name);
+    console.log("Hello,", name,"\nWelcome to the gang nigga;)");
 }
